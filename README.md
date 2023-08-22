@@ -1,9 +1,9 @@
-# Hi everyone :wave:
-My name is Nicolas, I'm a systems engineer from Colombia.
+# Hi there! :wave:
+My name is Nicolas 🧙‍♂️ I'm a systems engineer from Colombia 🇨🇴.
 
 <details>
 <summary>
-  More stuff about me
+  More stuff about me 👀
 </summary>
   
 #### GitHub stats 
