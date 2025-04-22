@@ -46,7 +46,7 @@ development, it is in my opinion the best combination of logical programming and
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | C1                                                                        |
+| English       | B2                                                                        |
 | Spanish       | Native language                                                           |
 
 ## What I'm currently learning 📚
